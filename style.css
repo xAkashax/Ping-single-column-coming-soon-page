@@ -69,6 +69,34 @@ input {
   padding: 14px 10px;
 }
 
+input::-webkit-input-placeholder {
+  opacity: 0.9;
+  font-weight: var(--fw-300);
+  letter-spacing: 0.5px;
+  color: var(--paleBlue);
+}
+
+input::-moz-placeholder {
+  opacity: 0.9;
+  font-weight: var(--fw-300);
+  letter-spacing: 0.5px;
+  color: var(--paleBlue);
+}
+
+input:-ms-input-placeholder {
+  opacity: 0.9;
+  font-weight: var(--fw-300);
+  letter-spacing: 0.5px;
+  color: var(--paleBlue);
+}
+
+input::-ms-input-placeholder {
+  opacity: 0.9;
+  font-weight: var(--fw-300);
+  letter-spacing: 0.5px;
+  color: var(--paleBlue);
+}
+
 input::placeholder {
   opacity: 0.9;
   font-weight: var(--fw-300);
