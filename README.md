@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/ping-single-column-coming-soon-page-ZZHbFbDO7F)
+- Live Site URL: [Live Demo](https://resplendent-starlight-6162e5.netlify.app/#)
 
 ## My process
 
