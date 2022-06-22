@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://resplendent-starlight-6162e5.netlify.app/#)
-- Live Site URL: [Live Demo](https://github.com/xAkashax/Ping-single-column-coming-soon-page)
+- Solution URL: [Frontend Mentor](https://github.com/xAkashax/Ping-single-column-coming-soon-page)
+- Live Site URL: [Live Demo](https://resplendent-starlight-6162e5.netlify.app/#)
 
 ## My process
 
