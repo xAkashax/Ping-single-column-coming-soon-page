@@ -1,24 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
   <script src="https://kit.fontawesome.com/536ff07e99.js" crossorigin="anonymous"></script>
-  
+
   <title>Frontend Mentor | Ping coming soon page</title>
   <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
   <main class="container">
     <img src="images/logo.svg" alt="logo" class="logo">
     <h1> We are launching <span> soon!</span></h1>
     <p class="sub"> Subscribe and get notified</p>
-    <form action="#">
-      <input type="email" placeholder="Your email adress..." id="email">
+    <form>
+      <input type="email" placeholder="Your email adress..." class="email">
       <div class="error"></div>
-      <div class="btn"><a href="#" id="btn">Notify Me</a></div>
+      <div class="btn" role="sumbit"><a href="#" class="btn">Notify Me</a></div>
     </form>
     <img src="images/illustration-dashboard.png" alt="dashboard" class="dashboard">
     <div class="socials">
@@ -28,12 +30,14 @@
     </div>
     <p class="copyright">&copy; Copyright Ping. All rights reserved.</p>
   </main>
-
   <footer>
     <p class="attribution">
-      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
       Coded by <a href="https://www.frontendmentor.io/profile/xAkashax">xAkashax</a>.
     </p>
   </footer>
+
+  <script src="app.js"></script>
 </body>
+
 </html>
