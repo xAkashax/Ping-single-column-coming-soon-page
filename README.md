@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://resplendent-starlight-6162e5.netlify.app/#)
 - Live Site URL: [Live Demo](https://github.com/xAkashax/Ping-single-column-coming-soon-page)
 
 ## My process
